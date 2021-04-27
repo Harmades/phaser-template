@@ -6,7 +6,7 @@ export class Game extends Phaser.Game {
         super({
             width: 800,
             height: 600,
-            backgroundColor: "#ffffff",
+            backgroundColor: "#0fffff",
             // scene: new GameScene()
         })
     }
